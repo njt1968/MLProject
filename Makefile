@@ -1,0 +1,2 @@
+r:
+	@python main.py
